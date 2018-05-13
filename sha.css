@@ -1,0 +1,101 @@
+img{
+  
+    width: 100%;
+height: 44em;
+}
+.navbar{
+
+    background:rgb(102, 96, 96);
+
+
+
+  }
+
+  .nav-link , .navbar-brand{
+
+    color: 
+white;
+    cursor: pointer;
+    
+    padding-right: 11.5rem;
+padding-left: .5rem;
+
+  }
+
+  .nav-link{
+
+    padding-right: 11.5rem;
+    padding-left: .5rem;
+
+  }
+
+  .nav-link:hover{
+
+    background: rgb(100, 97, 97);
+
+    color: rgb(182, 179, 173);
+
+
+
+  }
+
+  .navbar-collapse{
+
+    justify-content: center;
+
+  }
+
+  .navbar-toggler{
+
+    background:rgb(100, 97, 97) !important;
+
+  }
+
+.form-group {
+  margin-bottom: 1rem;
+  margin-top: -41%;
+  padding: -31px;
+  
+}
+.input1{
+margin-left: 9%;
+margin-top: -8%;
+width: 30%;
+padding: 13px;
+border-radius: 10px;
+}
+.input2{
+margin-left: 9%;
+                margin-top: -8%;
+                width: 30%;
+                padding: 13px;
+                border-radius: 10px;
+
+              }
+.tx1{
+              overflow: auto;
+resize: vertical;
+padding: 36px;
+margin-left: 6%;
+margin-top: -15%;
+width: 25%;
+border-radius: 10px;
+}
+.button{
+  width: 8%;
+  height: 23%;
+  padding: 0%;
+  margin-left: 54.5%;
+  background:  rgb(100, 97, 97);
+  border-radius: 14px;
+  color:white;
+  cursor: pointer;
+}
+.fa{
+  font-size: 53px;
+color: rgb(110, 102, 102);
+}
+.divm{
+  padding-left: 2px;
+cursor: pointer;
+}
